@@ -5,3 +5,5 @@ onion
 cheese
 parsley
 tomato
+ham
+bacon
